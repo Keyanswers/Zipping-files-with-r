@@ -3,7 +3,7 @@ setwd('C:/Users/Downloads')
 require(zip)
 require(archive) 
 # How to create a folder with r
-#$dir.create("C:/Users/jucar/Documents/R/data/ZIPPING")
+#$dir.create("C:/Users/Documents/R/data/ZIPPING")
 dir('C:/Users/Documents/R/data/CursoR/multiples')
 sdf = 'C:/Users/Documents/R/data/CursoR/multiples'
 bir = 'C:/Users/Documents/R/data/CursoR'
